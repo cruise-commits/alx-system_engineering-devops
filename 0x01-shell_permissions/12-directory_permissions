@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m drwxr-x--x dir_mydir
+mkdir -m rwxr-x--x dir_mydir
