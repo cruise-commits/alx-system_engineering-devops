@@ -1,0 +1,2 @@
+#!/bin/bash
+mv [[:upper:]]* /tmp/u11;rgb:1e1e/1e1e/1e1e
